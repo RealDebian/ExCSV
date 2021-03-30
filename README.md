@@ -5,7 +5,7 @@ Excel file to CSV converter
 ![Product Name Screen Shot][product-screenshot]
 
 ## About ExCSV
-Excel to CSV is a file converter for an easy convertion from excel files to CSV for upload data to any server.
+ExCSV is a file converter for an easy convertion from excel files to CSV for upload data to any server.
 
 <!-- CONTACT -->
 ## Contact
