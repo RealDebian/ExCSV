@@ -12,7 +12,7 @@ ExCSV is a file converter for an easy convertion from excel files to CSV for upl
 
 Oscar Perez - [@RealDebian](https://twitter.com/RealDebian) - oscar_perez@windowslive.com
 
-Project Link: [https://github.com/RealDebian/Palpeo](https://github.com/RealDebian/Palpeo)
+Project Link: [https://github.com/RealDebian/Palpeo](https://github.com/RealDebian/ExCSV)
 
 Made in Nicaragua
 
